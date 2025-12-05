@@ -1,4 +1,3 @@
-# my-token
 # MyToken (MTK)
 
 ## Overview
